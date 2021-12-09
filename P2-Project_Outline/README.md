@@ -25,6 +25,7 @@ This feature will allow the users to rate, describe and locate their pain daily.
 The med tracking feature will allow the user to have a MAR (Medication Admissions Record) on their phone for both scheduled meds and PRN.
 
 [//]: # (Include Features here)
+
 ### Technologies
 The technologies we are going to use include:
 Java
