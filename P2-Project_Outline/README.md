@@ -33,6 +33,7 @@ JavaScript
 Bootstrap
 MySQL
 Thymeleaf templates
+
 [//]: # (Include Technologies here)
 ### What I'll Have to Learn
 
