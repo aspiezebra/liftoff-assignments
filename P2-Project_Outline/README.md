@@ -15,13 +15,13 @@ We are creating a chronic illness tracking app. The app will allow users to trac
 
 ### Features
 
-	Symptom Log,
+Symptom Log,
 The symptom log will allow the users to put symptoms they have and rate their severity.
 
-	Pain Log,
+Pain Log,
 This feature will allow the users to rate, describe and locate their pain daily.
 
-	Medication Tracking,
+Medication Tracking,
 The med tracking feature will allow the user to have a MAR (Medication Admissions Record) on their phone for both scheduled meds and PRN.
 
 [//]: # (Include Features here)
