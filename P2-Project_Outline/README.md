@@ -28,11 +28,20 @@ The med tracking feature will allow the user to have a MAR (Medication Admission
 
 ### Technologies
 The technologies we are going to use include:
-Java
-JavaScript
-Bootstrap
-MySQL
-Thymeleaf templates
+
+Java,
+
+JavaScript,
+
+Bootstrap,
+
+MySQL,
+
+Thymeleaf templates,
+
+Learn More About DATABASES,
+
+Learn more about securing privacy with encryption and security,
 
 [//]: # (Include Technologies here)
 ### What I'll Have to Learn
