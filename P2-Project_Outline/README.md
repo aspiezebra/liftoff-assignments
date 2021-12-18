@@ -41,14 +41,17 @@ MySQL,
 
 Thymeleaf templates,
 
-Learn More About DATABASES,
+<!-- Learn More About DATABASES,
 
 Learn more about securing privacy with encryption and security,
-
+ -->
 [//]: # (Include Technologies here)
 ### What I'll Have to Learn
 
-It will help us learn more about:
+It will help us learn more about/ I have to learn more about:
+Learn More About DATABASES,
+How to use API,
+Learn more about securing privacy with encryption and security,
 using additional technologies to make an app HIPAA compliant.
 increase knowledge on SQL
 Data privacy
