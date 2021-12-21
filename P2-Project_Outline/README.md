@@ -50,9 +50,13 @@ Learn more about securing privacy with encryption and security,
 
 It will help us learn more about/ I have to learn more about:
 Learn More About DATABASES,
+
 How to use API,
+
 Specifically Calander API,
+
 Learn more about securing privacy with encryption and security,
+
 using additional technologies to make an app HIPAA compliant.
 increase knowledge on SQL
 Data privacy
