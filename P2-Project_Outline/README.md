@@ -18,12 +18,20 @@ We are creating a chronic illness tracking app. The app will allow users to trac
 
 The features will include:
 
+
+
 Registration and login: user can open an account to track and save Medical info
+
 Comprehensive User Profile keep the data saved
+
 Symptom Search
+
 Medical history
+
 Date/Calendar features
+
 Symptom Tracking and analysis
+
 
 
 
