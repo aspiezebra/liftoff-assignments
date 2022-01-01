@@ -9,7 +9,9 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-
+![My image](https://ibb.co/mC4BLcD)
+![My image](https://ibb.co/D98ZMmS)
+![My image](https://ibb.co/jLD8NgX)
 [//]: # (P3-Project_Planning/Screenshot 2021-12-26 172307.png)
 [//]: # (https://ibb.co/D98ZMmS)
 <img src="https://ibb.co/D98ZMmS"/>
