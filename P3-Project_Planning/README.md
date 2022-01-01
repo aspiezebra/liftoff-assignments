@@ -22,6 +22,9 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 [//]: # (https://ibb.co/jLD8NgX)
 
+<img src="https://ibb.co/mC4BLcD">
+<img src="https://ibb.co/jLD8NgX">
+<img src="https://ibb.co/D98ZMmS">
 [//]: # ([]&#40;https://ibb.co/jLD8NgX&#41;)
 
 [//]: # (https://ibb.co/mC4BLcD)
