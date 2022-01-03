@@ -12,6 +12,9 @@ Include at least 3 wireframes here, adding images or files to your repository as
 [My image](https://ibb.co/mC4BLcD)
 [My image](https://ibb.co/D98ZMmS)
 [My image](https://ibb.co/jLD8NgX)
+![My image](https://ibb.co/mC4BLcD)
+![My image](https://ibb.co/D98ZMmS)
+![My image](https://ibb.co/jLD8NgX)
 
 ### Project Tracker
 
