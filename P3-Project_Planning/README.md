@@ -9,44 +9,9 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-![My image](https://ibb.co/mC4BLcD)
-![My image](https://ibb.co/D98ZMmS)
-![My image](https://ibb.co/jLD8NgX)
-[//]: # (P3-Project_Planning/Screenshot 2021-12-26 172307.png)
-[//]: # (https://ibb.co/D98ZMmS)
-<img src="https://ibb.co/D98ZMmS"/>
-<img src="https://ibb.co/jLD8NgX"/>
-<img src="https://ibb.co/mC4BLcD"/>
-[](https://ibb.co/D98ZMmS)
-[](https://ibb.co/jLD8NgX)
-[](https://ibb.co/mC4BLcD)
-[//]: # ([]&#40;https://ibb.co/D98ZMmS&#41;)
-
-[//]: # (https://ibb.co/jLD8NgX)
-
-<<<<<<< HEAD
-=======
-<img src="https://ibb.co/mC4BLcD">
-<img src="https://ibb.co/jLD8NgX">
-<img src="https://ibb.co/D98ZMmS">
->>>>>>> e11475b99db43fb6c0166e6680d976111fb6c988
-[//]: # ([]&#40;https://ibb.co/jLD8NgX&#41;)
-
-[//]: # (https://ibb.co/mC4BLcD)
-
-[//]: # ([]&#40;https://ibb.co/mC4BLcD&#41;)
-![](P3-Project_Planning/Screenshot 2021-12-26 172327.png)
-
-![](D:\Coding\School\LiftOff\Assignments\liftoff-assignments\P3-Project_Planning\Screenshot 2021-12-26 172327.png)
-
-![](P3-Project_Planning/Screenshot 2021-12-26 172307.png)
-
-
-![](D:\Coding\School\LiftOff\Assignments\liftoff-assignments\P3-Project_Planning\Screenshot 2021-12-26 172307.png)
-
-![](P3-Project_Planning/Screenshot 2021-12-26 172244.png)
-
-![](D:\Coding\School\LiftOff\Assignments\liftoff-assignments\P3-Project_Planning\Screenshot 2021-12-26 172244.png)
+[My image](https://ibb.co/mC4BLcD)
+[My image](https://ibb.co/D98ZMmS)
+[My image](https://ibb.co/jLD8NgX)
 
 ### Project Tracker
 
