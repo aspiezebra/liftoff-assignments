@@ -24,10 +24,12 @@ wireframes
 
 ### Project Tracker
 
-https://trello.com/b/3OkSCNNG
-[](https://trello.com/b/3OkSCNNG)
+<!-- https://trello.com/b/3OkSCNNG -->
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
+[Trello](https://trello.com/b/3OkSCNNG)
 ### Project Repo Link
-[](https://github.com/M-Techner/MedInfoTracker.git)
+
 Include a link to your project on GitHub.
+
+[GitHub](https://github.com/M-Techner/MedInfoTracker.git)
